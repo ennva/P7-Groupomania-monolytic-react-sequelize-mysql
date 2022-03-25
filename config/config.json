@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mikael",
+    "password": "Italia80italia80+",
+    "database": "database_groupomania",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "mikael",
+    "password": "Italia80italia80+",
+    "database": "database_test_groupomania",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "mikael",
+    "password": "Italia80italia80+",
+    "database": "database_production_groupomania",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
